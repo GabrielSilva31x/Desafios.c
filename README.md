@@ -137,7 +137,7 @@ Este repositório explora conceitos importantes como:
 
 # 👨‍💻 Autor
 
-Gabriel Silva
+@Ash_
 Estudante de programação focado em **desenvolvimento e ciência da computação**.
 
 Repositório criado para registrar evolução em algoritmos e estruturas de dados em **C**.
