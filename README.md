@@ -76,7 +76,7 @@ Cada item possui:
 
 ---
 
-# 📚 Estruturas de Dados – Pilha e Fila
+# 📚 Tetris Stack – Pilha e Fila
 
 Projeto que implementa duas estruturas fundamentais da computação.
 
