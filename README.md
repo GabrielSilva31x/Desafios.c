@@ -13,7 +13,7 @@ Os códigos representam desafios progressivos, chegando ao **nível 3**, onde s�
 
 ---
 
-# 🕵️ Detective Quest – Investigação em uma Mansão
+# 🕵️ Projeto Detective Quest – Investigação em uma Mansão
 
 Simulação de um **jogo investigativo**, onde o jogador explora uma mansão para encontrar pistas e descobrir o culpado.
 
@@ -76,7 +76,7 @@ Cada item possui:
 
 ---
 
-# 📚 Tetris Stack – Pilha e Fila
+# 📚 Projeto Tetris Stack – Pilha e Fila
 
 Projeto que implementa duas estruturas fundamentais da computação.
 
